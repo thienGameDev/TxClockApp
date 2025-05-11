@@ -69,7 +69,7 @@ cd TxClockApp
 
 ## Usage
 
-1. Press **Play** in the Unity Editor.
+1. Open **ZenMain** scene and Press **Play** in the Unity Editor.
 2. Navigate the UI:
 
    * **LocalClock** tab: View current time.
